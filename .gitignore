@@ -10,3 +10,4 @@ env/
 .DS_Store
 notebooks/scraping-understat-dataset/
 notebooks/downloaded_files/
+notebooks/data/shots.csv
